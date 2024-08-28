@@ -1,2 +1,1 @@
-# simple_shell
-0x16. C - Simple Shell repository
+0x16. C - Simple Shell group project by Adwoa and Francisca
